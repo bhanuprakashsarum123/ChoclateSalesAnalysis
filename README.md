@@ -41,4 +41,5 @@ A column chart displays the number of boxes sold alongside total shipments (e.g.
 - Step 11 : Added two slicers,one for product category another one for Country wise by this we filter what we want to analyse.
 
 
+<img width="1312" height="728" alt="Image" src="https://github.com/user-attachments/assets/713642a0-8ee6-49b5-950f-4f81a3952a0f" />
 
